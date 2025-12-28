@@ -353,9 +353,6 @@ curl -N http://localhost:8080/query/accounts/watch/<account-id>
 - [Event Sourcing Pattern](https://martinfowler.com/eaaDev/EventSourcing.html)
 - [Spring Boot Documentation](https://spring.io/projects/spring-boot)
 
-## License
-
-This project is created for educational purposes.
 
 ---
 
